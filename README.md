@@ -18,7 +18,7 @@ HND in Business Administration and Management – Institute of Management & Tech
 🛠 Certifications and Specializations
 
 International Certifications:
-Oracle 10g & 12c Database Administrator Certified Professional (OCP)
+Oracle 10g, 11g & 12c Database Administrator Certified Professional (OCP)
 Oracle 10g Database Administrator Certified Associate (OCA)
 Oracle Database SQL Certified Expert
 Oracle Database 11g Certified Implementation Specialist
