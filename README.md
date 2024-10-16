@@ -36,15 +36,11 @@ I combine my deep understanding of databases and software engineering to deliver
 
 🔧 Technologies I Work With
 
-Languages: Python, HTML, CSS, JavaScript, SQL, PL/SQL, Ruby.
-
-Databases: Oracle (10g, 11g, 12c,19c,23ai), MongoDB, PostgreSQL, MySQL, SQLServer, IBM DB2, GuassDb
-
+Languages: Bash, Python, HTML, CSS, JavaScript, SQL, PL/SQL, Ruby, Yaml.
+Databases: Oracle (10g, 11g, 12c,19c,23ai), MongoDB, PostgreSQL, MySQL, SQLServer, IBM DB2, GuassDb.
 Cloud Platforms: AWS, Oracle Cloud Infrastructure (OCI), Azure, Google Cloud.
-
-Back-End Technologies: Node.js, Express.js, Django
-
-DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, CI/CD Pipelines
+Back-End Technologies: Node.js, Express.js, Django.
+DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, CI/CD Pipelines.
 
 🌱 What I'm Working On
 
