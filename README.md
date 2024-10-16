@@ -11,24 +11,24 @@ Cloud and DevOps: Having completed a DevOps Engineer program at K21 Academy, I a
 
 🎓 Academic Background
 
-Master’s in Business Law (LLM Laws) – University of South Wales, UK
-BSc in Computer Science/Statistics – University of Nigeria, Nsukka
-HND in Business Administration and Management – Institute of Management & Technology (IMT) Enugu
+Master’s in Business Law (LLM Laws) – University of South Wales, UK.
+BSc in Computer Science/Statistics – University of Nigeria, Nsukka.
+HND in Business Administration and Management – Institute of Management & Technology (IMT) Enugu.
 
 🛠 Certifications and Specializations
 
 International Certifications:
-Oracle 10g, 11g & 12c Database Administrator Certified Professional (OCP)
-Oracle 10g Database Administrator Certified Associate (OCA)
-Oracle Database SQL Certified Expert
-Oracle Database 11g Certified Implementation Specialist
-Oracle Cloud Infrastructure Architect Associate
-AWS Certified Solutions Architect - Associate
-ITIL® V3 Foundation (for IT Service Management)
+Oracle 10g, 11g & 12c Database Administrator Certified Professional (OCP),
+Oracle 10g Database Administrator Certified Associate (OCA),
+Oracle Database SQL Certified Expert,
+Oracle Database 11g Certified Implementation Specialist,
+Oracle Cloud Infrastructure Architect Associate,
+AWS Certified Solutions Architect - Associate,
+ITIL® V3 Foundation (for IT Service Management).
 Cloud Certifications:
-Oracle Cloud Infrastructure Foundations & Developer Certified Associate
-Oracle Autonomous Database Cloud & Database Migration Specialist
-Oracle Cloud Operations Certified Associate
+Oracle Cloud Infrastructure Foundations & Developer Certified Associate,
+Oracle Autonomous Database Cloud & Database Migration Specialist,
+Oracle Cloud Operations Certified Associate.
 
 💼 What I Bring
 
