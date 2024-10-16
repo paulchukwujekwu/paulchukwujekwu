@@ -2,6 +2,7 @@
 I'm a Professional Database Administrator and Software Engineer with a specialization in Back-End Development. My career journey has been enriched by a diverse blend of academic achievements, professional certifications, and hands-on experience in database management, software engineering, and cloud solutions.
 
 👨‍💻 Professional Expertise
+
 Database Administration: With numerous international certifications from Oracle and AWS, I am an expert in designing, implementing, and managing databases. I hold certifications like Oracle 10g and 12c OCP, Oracle Cloud Infrastructure Architect Associate, and AWS Certified Solutions Architect. My deep knowledge ensures database security, optimization, and scalability for high-traffic systems.
 
 Software Engineer (Back-End Specialist): As a graduate of the ALX Africa Software Engineering Program, I specialize in building scalable, efficient back-end systems using technologies like Node.js, Python, and SQL/NoSQL databases. I excel at developing APIs, managing data flows, and optimizing system performance.
@@ -9,11 +10,13 @@ Software Engineer (Back-End Specialist): As a graduate of the ALX Africa Softwar
 Cloud and DevOps: Having completed a DevOps Engineer program at K21 Academy, I am skilled in modern DevOps practices such as CI/CD pipelines, containerization with Docker, and cloud deployments using AWS and Oracle Cloud.
 
 🎓 Academic Background
+
 Master’s in Business Law (LLM Laws) – University of South Wales, UK
 BSc in Computer Science/Statistics – University of Nigeria, Nsukka
 HND in Business Administration and Management – Institute of Management & Technology (IMT) Enugu
 
 🛠 Certifications and Specializations
+
 International Certifications:
 Oracle 10g & 12c Database Administrator Certified Professional (OCP)
 Oracle 10g Database Administrator Certified Associate (OCA)
