@@ -3,9 +3,9 @@ I'm a Professional Database Administrator and Software Engineer with a specializ
 
 👨‍💻 Professional Expertise
 
-Database Administration: With numerous international certifications from Oracle and AWS, I am an expert in designing, implementing, and managing databases. I hold certifications like Oracle 10g and 12c OCP, Oracle Cloud Infrastructure Architect Associate, and AWS Certified Solutions Architect. My deep knowledge ensures database security, optimization, and scalability for high-traffic systems.
+Database Administration: With numerous international certifications from Oracle and AWS, I am an expert in designing, implementing, and managing databases. I hold certifications like Oracle 10g, 11g and 12c OCP, Oracle Cloud Infrastructure Architect Associate, and AWS Certified Solutions Architect. My deep knowledge ensures database security, optimization, and scalability for high-traffic systems.
 
-Software Engineer (Back-End Specialist): As a graduate of the ALX Africa Software Engineering Program, I specialize in building scalable, efficient back-end systems using technologies like Node.js, Python, and SQL/NoSQL databases. I excel at developing APIs, managing data flows, and optimizing system performance.
+Software Engineer (Back-End Specialist): As a graduate of the ALX Africa Software Engineering Program, I specialize in building scalable, efficient back-end systems using technologies like Node.js, Python, Javascript and SQL/NoSQL databases. I excel at developing APIs, managing data flows, and optimizing system performance.
 
 Cloud and DevOps: Having completed a DevOps Engineer program at K21 Academy, I am skilled in modern DevOps practices such as CI/CD pipelines, containerization with Docker, and cloud deployments using AWS and Oracle Cloud.
 
@@ -31,9 +31,11 @@ Oracle Autonomous Database Cloud & Database Migration Specialist
 Oracle Cloud Operations Certified Associate
 
 💼 What I Bring
+
 I combine my deep understanding of databases and software engineering to deliver highly optimized, secure, and scalable back-end solutions. My journey through different industries and roles has given me a well-rounded perspective on both the technical and business sides of technology, allowing me to understand complex systems and contribute to their growth and efficiency.
 
 🔧 Technologies I Work With
+
 Languages: Python, HTML, CSS, JavaScript, SQL, PL/SQL, Ruby.
 Databases: Oracle (10g, 11g, 12c,19c,23ai), MongoDB, PostgreSQL, MySQL, SQLServer, IBM DB2, GuassDb
 Cloud Platforms: AWS, Oracle Cloud Infrastructure (OCI), Azure, Google Cloud.
@@ -41,11 +43,13 @@ Back-End Technologies: Node.js, Express.js, Django
 DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, CI/CD Pipelines
 
 🌱 What I'm Working On
+
 Building and deploying cloud-based back-end applications, integrating robust database solutions.
 Contributing to open-source projects focusing on cloud infrastructure, database management, and API development.
 Expanding my expertise in cloud-native architectures and automation through DevOps.
 
 💬 Let’s Connect!
+
 With a passion for creating efficient and scalable systems, I am eager to collaborate on projects that push the boundaries of cloud computing, database management, and software engineering. Feel free to explore my work, and let’s create something impactful together!
 
 
